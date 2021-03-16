@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/aicha/.dotnet/store/|arch|/|tfm|",
+      "/Users/aicha/.nuget/packages"
+    ]
+  }
+}

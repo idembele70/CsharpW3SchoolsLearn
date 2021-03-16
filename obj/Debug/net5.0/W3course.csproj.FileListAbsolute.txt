@@ -1,0 +1,15 @@
+/Users/aicha/Documents/Programmation/Cours_perso/C#/W3School/W3course/bin/Debug/net5.0/W3course.deps.json
+/Users/aicha/Documents/Programmation/Cours_perso/C#/W3School/W3course/bin/Debug/net5.0/W3course.runtimeconfig.json
+/Users/aicha/Documents/Programmation/Cours_perso/C#/W3School/W3course/bin/Debug/net5.0/W3course.runtimeconfig.dev.json
+/Users/aicha/Documents/Programmation/Cours_perso/C#/W3School/W3course/bin/Debug/net5.0/W3course.dll
+/Users/aicha/Documents/Programmation/Cours_perso/C#/W3School/W3course/bin/Debug/net5.0/ref/W3course.dll
+/Users/aicha/Documents/Programmation/Cours_perso/C#/W3School/W3course/bin/Debug/net5.0/W3course.pdb
+/Users/aicha/Documents/Programmation/Cours_perso/C#/W3School/W3course/obj/Debug/net5.0/W3course.csprojAssemblyReference.cache
+/Users/aicha/Documents/Programmation/Cours_perso/C#/W3School/W3course/obj/Debug/net5.0/W3course.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aicha/Documents/Programmation/Cours_perso/C#/W3School/W3course/obj/Debug/net5.0/W3course.AssemblyInfoInputs.cache
+/Users/aicha/Documents/Programmation/Cours_perso/C#/W3School/W3course/obj/Debug/net5.0/W3course.AssemblyInfo.cs
+/Users/aicha/Documents/Programmation/Cours_perso/C#/W3School/W3course/obj/Debug/net5.0/W3course.csproj.CoreCompileInputs.cache
+/Users/aicha/Documents/Programmation/Cours_perso/C#/W3School/W3course/obj/Debug/net5.0/W3course.dll
+/Users/aicha/Documents/Programmation/Cours_perso/C#/W3School/W3course/obj/Debug/net5.0/ref/W3course.dll
+/Users/aicha/Documents/Programmation/Cours_perso/C#/W3School/W3course/obj/Debug/net5.0/W3course.pdb
+/Users/aicha/Documents/Programmation/Cours_perso/C#/W3School/W3course/obj/Debug/net5.0/W3course.genruntimeconfig.cache
